@@ -1,6 +1,8 @@
 dbs/__pycache__
 ftp/__pycache__
+snmp/__pycache__
 other/__pycache__
 
 ftp/test.py
+snmp/devdb.txt
 
